@@ -24,3 +24,7 @@ Equipe comercial.
 
 **Instrução adicional:**
 Explique quais nós do N8N devem ser utilizados e a lógica de funcionamento do workflow.
+
+# O retorno do Prompt
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f297e81-bd1c-43ee-abb0-6c8b90989d31" />
